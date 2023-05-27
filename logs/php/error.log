@@ -1,0 +1,245 @@
+[27-May-2023 12:09:00 UTC] PHP Warning:  Attempt to read property "title" on null in /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[27-May-2023 13:58:31 UTC] PHP Parse error:  syntax error, unexpected token "," in /home/leonardo/projects/wp_geekie/app/public/wp-content/themes/geekie/functions.php on line 4
+[27-May-2023 13:58:31 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-recovery-mode-email-service.php on line 367
+[27-May-2023 13:58:31 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-recovery-mode-email-service.php on line 368
+[27-May-2023 14:07:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_head() in /home/leonardo/projects/wp_geekie/app/public/wp-content/themes/geekie/index.php:7
+Stack trace:
+#0 /home/leonardo/projects/wp_geekie/app/public/wp-includes/template-loader.php(106): include()
+#1 /home/leonardo/projects/wp_geekie/app/public/wp-blog-header.php(19): require_once('/home/leonardo/...')
+#2 /home/leonardo/projects/wp_geekie/app/public/index.php(17): require('/home/leonardo/...')
+#3 {main}
+  thrown in /home/leonardo/projects/wp_geekie/app/public/wp-content/themes/geekie/index.php on line 7
+[27-May-2023 14:59:05 UTC] PHP Warning:  Attempt to read property "title" on null in /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[27-May-2023 15:11:10 UTC] PHP Parse error:  syntax error, unexpected token "," in /home/leonardo/projects/wp_geekie/app/public/wp-content/themes/geekie/functions.php on line 10
+[27-May-2023 15:13:11 UTC] PHP Parse error:  syntax error, unexpected token "=>", expecting ")" in /home/leonardo/projects/wp_geekie/app/public/wp-content/themes/geekie/functions.php on line 11
+[27-May-2023 15:14:39 UTC] PHP Warning:  Attempt to read property "title" on null in /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[27-May-2023 15:15:31 UTC] PHP Warning:  Attempt to read property "title" on null in /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[27-May-2023 15:19:29 UTC] PHP Warning:  Attempt to read property "title" on null in /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[27-May-2023 15:23:38 UTC] PHP Warning:  Attempt to read property "title" on null in /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[27-May-2023 16:02:18 UTC] PHP Warning:  filemtime(): stat failed for http://localhost:10004/wp-content/themes/geekie/assets/css/tailwind_output.css in /home/leonardo/projects/wp_geekie/app/public/wp-content/themes/geekie/functions.php on line 5
+[27-May-2023 16:02:18 UTC] PHP Warning:  filemtime(): stat failed for http://localhost:10004/wp-content/themes/geekie/assets/css/tailwind_output.css in /home/leonardo/projects/wp_geekie/app/public/wp-content/themes/geekie/functions.php on line 5
+[27-May-2023 16:02:20 UTC] PHP Warning:  filemtime(): stat failed for http://localhost:10004/wp-content/themes/geekie/assets/css/tailwind_output.css in /home/leonardo/projects/wp_geekie/app/public/wp-content/themes/geekie/functions.php on line 5
+[27-May-2023 16:02:20 UTC] PHP Warning:  filemtime(): stat failed for http://localhost:10004/wp-content/themes/geekie/assets/css/tailwind_output.css in /home/leonardo/projects/wp_geekie/app/public/wp-content/themes/geekie/functions.php on line 5
+[27-May-2023 16:02:22 UTC] PHP Warning:  filemtime(): stat failed for http://localhost:10004/wp-content/themes/geekie/assets/css/tailwind_output.css in /home/leonardo/projects/wp_geekie/app/public/wp-content/themes/geekie/functions.php on line 5
+[27-May-2023 16:02:22 UTC] PHP Warning:  filemtime(): stat failed for http://localhost:10004/wp-content/themes/geekie/assets/css/tailwind_output.css in /home/leonardo/projects/wp_geekie/app/public/wp-content/themes/geekie/functions.php on line 5
+[27-May-2023 16:29:49 UTC] PHP Warning:  Attempt to read property "title" on null in /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[27-May-2023 16:38:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_heade() in /home/leonardo/projects/wp_geekie/app/public/wp-content/themes/geekie/index.php:1
+Stack trace:
+#0 /home/leonardo/projects/wp_geekie/app/public/wp-includes/template-loader.php(106): include()
+#1 /home/leonardo/projects/wp_geekie/app/public/wp-blog-header.php(19): require_once('/home/leonardo/...')
+#2 /home/leonardo/projects/wp_geekie/app/public/index.php(17): require('/home/leonardo/...')
+#3 {main}
+  thrown in /home/leonardo/projects/wp_geekie/app/public/wp-content/themes/geekie/index.php on line 1
+[27-May-2023 16:49:59 UTC] PHP Deprecated:  File Theme without footer.php is <strong>deprecated</strong> since version 3.0.0 with no alternative available. Please include a footer.php template in your theme. in /home/leonardo/projects/wp_geekie/app/public/wp-includes/functions.php on line 5613
+[27-May-2023 16:50:05 UTC] PHP Deprecated:  File Theme without footer.php is <strong>deprecated</strong> since version 3.0.0 with no alternative available. Please include a footer.php template in your theme. in /home/leonardo/projects/wp_geekie/app/public/wp-includes/functions.php on line 5613
+[27-May-2023 16:52:48 UTC] PHP Deprecated:  File Theme without footer.php is <strong>deprecated</strong> since version 3.0.0 with no alternative available. Please include a footer.php template in your theme. in /home/leonardo/projects/wp_geekie/app/public/wp-includes/functions.php on line 5613
+[27-May-2023 16:52:49 UTC] PHP Deprecated:  File Theme without footer.php is <strong>deprecated</strong> since version 3.0.0 with no alternative available. Please include a footer.php template in your theme. in /home/leonardo/projects/wp_geekie/app/public/wp-includes/functions.php on line 5613
+[27-May-2023 16:52:50 UTC] PHP Deprecated:  File Theme without footer.php is <strong>deprecated</strong> since version 3.0.0 with no alternative available. Please include a footer.php template in your theme. in /home/leonardo/projects/wp_geekie/app/public/wp-includes/functions.php on line 5613
+[27-May-2023 17:07:07 UTC] PHP Warning:  Attempt to read property "title" on null in /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[27-May-2023 17:09:55 UTC] PHP Warning:  Attempt to read property "title" on null in /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[27-May-2023 17:11:20 UTC] PHP Warning:  Attempt to read property "title" on null in /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[27-May-2023 17:11:27 UTC] PHP Warning:  Attempt to read property "title" on null in /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[27-May-2023 17:13:45 UTC] PHP Warning:  Attempt to read property "title" on null in /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[27-May-2023 17:13:48 UTC] PHP Warning:  Attempt to read property "title" on null in /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[27-May-2023 17:15:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method WP_Customize_Manager::add_settings() in /home/leonardo/projects/wp_geekie/app/public/wp-content/themes/geekie/inc/customizer.php:12
+Stack trace:
+#0 /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-hook.php(308): geekie_customizer(Object(WP_Customize_Manager))
+#1 /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 /home/leonardo/projects/wp_geekie/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-customize-manager.php(934): do_action('customize_regis...', Object(WP_Customize_Manager))
+#4 /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-hook.php(308): WP_Customize_Manager->wp_loaded('')
+#5 /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#6 /home/leonardo/projects/wp_geekie/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7 /home/leonardo/projects/wp_geekie/app/public/wp-settings.php(645): do_action('wp_loaded')
+#8 /home/leonardo/projects/wp_geekie/app/public/wp-config.php(105): require_once('/home/leonardo/...')
+#9 /home/leonardo/projects/wp_geekie/app/public/wp-load.php(50): require_once('/home/leonardo/...')
+#10 /home/leonardo/projects/wp_geekie/app/public/wp-admin/admin-ajax.php(22): require_once('/home/leonardo/...')
+#11 {main}
+  thrown in /home/leonardo/projects/wp_geekie/app/public/wp-content/themes/geekie/inc/customizer.php on line 12
+[27-May-2023 17:16:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method WP_Customize_Manager::add_settings() in /home/leonardo/projects/wp_geekie/app/public/wp-content/themes/geekie/inc/customizer.php:12
+Stack trace:
+#0 /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-hook.php(308): geekie_customizer(Object(WP_Customize_Manager))
+#1 /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 /home/leonardo/projects/wp_geekie/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-customize-manager.php(934): do_action('customize_regis...', Object(WP_Customize_Manager))
+#4 /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-hook.php(308): WP_Customize_Manager->wp_loaded('')
+#5 /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#6 /home/leonardo/projects/wp_geekie/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7 /home/leonardo/projects/wp_geekie/app/public/wp-settings.php(645): do_action('wp_loaded')
+#8 /home/leonardo/projects/wp_geekie/app/public/wp-config.php(105): require_once('/home/leonardo/...')
+#9 /home/leonardo/projects/wp_geekie/app/public/wp-load.php(50): require_once('/home/leonardo/...')
+#10 /home/leonardo/projects/wp_geekie/app/public/wp-admin/admin.php(34): require_once('/home/leonardo/...')
+#11 /home/leonardo/projects/wp_geekie/app/public/wp-admin/customize.php(13): require_once('/home/leonardo/...')
+#12 {main}
+  thrown in /home/leonardo/projects/wp_geekie/app/public/wp-content/themes/geekie/inc/customizer.php on line 12
+[27-May-2023 17:16:11 UTC] PHP Warning:  Attempt to read property "title" on null in /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[27-May-2023 17:16:34 UTC] PHP Warning:  Attempt to read property "title" on null in /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[27-May-2023 17:18:09 UTC] PHP Warning:  Attempt to read property "title" on null in /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[27-May-2023 17:19:38 UTC] PHP Warning:  Attempt to read property "title" on null in /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[27-May-2023 17:20:08 UTC] PHP Warning:  Attempt to read property "title" on null in /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[27-May-2023 17:23:22 UTC] PHP Warning:  Attempt to read property "title" on null in /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[27-May-2023 17:23:37 UTC] PHP Warning:  Attempt to read property "title" on null in /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[27-May-2023 17:24:06 UTC] PHP Warning:  Attempt to read property "title" on null in /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[27-May-2023 17:24:13 UTC] PHP Warning:  Attempt to read property "title" on null in /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[27-May-2023 17:25:24 UTC] PHP Warning:  Attempt to read property "title" on null in /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[27-May-2023 17:25:34 UTC] PHP Warning:  Attempt to read property "title" on null in /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[27-May-2023 17:25:53 UTC] PHP Warning:  Attempt to read property "title" on null in /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[27-May-2023 17:26:33 UTC] PHP Warning:  Attempt to read property "title" on null in /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[27-May-2023 17:26:55 UTC] PHP Warning:  Attempt to read property "title" on null in /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[27-May-2023 17:27:49 UTC] PHP Warning:  Attempt to read property "title" on null in /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[27-May-2023 17:27:59 UTC] PHP Warning:  Attempt to read property "title" on null in /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[27-May-2023 17:56:05 UTC] PHP Warning:  Attempt to read property "title" on null in /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[27-May-2023 17:56:30 UTC] PHP Warning:  Attempt to read property "title" on null in /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[27-May-2023 18:32:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_content() in /home/leonardo/projects/wp_geekie/app/public/wp-content/themes/geekie/page-home.php:14
+Stack trace:
+#0 /home/leonardo/projects/wp_geekie/app/public/wp-includes/template-loader.php(106): include()
+#1 /home/leonardo/projects/wp_geekie/app/public/wp-blog-header.php(19): require_once('/home/leonardo/...')
+#2 /home/leonardo/projects/wp_geekie/app/public/index.php(17): require('/home/leonardo/...')
+#3 {main}
+  thrown in /home/leonardo/projects/wp_geekie/app/public/wp-content/themes/geekie/page-home.php on line 14
+[27-May-2023 18:32:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_content() in /home/leonardo/projects/wp_geekie/app/public/wp-content/themes/geekie/page-home.php:15
+Stack trace:
+#0 /home/leonardo/projects/wp_geekie/app/public/wp-includes/template-loader.php(106): include()
+#1 /home/leonardo/projects/wp_geekie/app/public/wp-blog-header.php(19): require_once('/home/leonardo/...')
+#2 /home/leonardo/projects/wp_geekie/app/public/index.php(17): require('/home/leonardo/...')
+#3 {main}
+  thrown in /home/leonardo/projects/wp_geekie/app/public/wp-content/themes/geekie/page-home.php on line 15
+[27-May-2023 18:32:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_content() in /home/leonardo/projects/wp_geekie/app/public/wp-content/themes/geekie/page-home.php:15
+Stack trace:
+#0 /home/leonardo/projects/wp_geekie/app/public/wp-includes/template-loader.php(106): include()
+#1 /home/leonardo/projects/wp_geekie/app/public/wp-blog-header.php(19): require_once('/home/leonardo/...')
+#2 /home/leonardo/projects/wp_geekie/app/public/index.php(17): require('/home/leonardo/...')
+#3 {main}
+  thrown in /home/leonardo/projects/wp_geekie/app/public/wp-content/themes/geekie/page-home.php on line 15
+[27-May-2023 18:32:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_content() in /home/leonardo/projects/wp_geekie/app/public/wp-content/themes/geekie/page-home.php:15
+Stack trace:
+#0 /home/leonardo/projects/wp_geekie/app/public/wp-includes/template-loader.php(106): include()
+#1 /home/leonardo/projects/wp_geekie/app/public/wp-blog-header.php(19): require_once('/home/leonardo/...')
+#2 /home/leonardo/projects/wp_geekie/app/public/index.php(17): require('/home/leonardo/...')
+#3 {main}
+  thrown in /home/leonardo/projects/wp_geekie/app/public/wp-content/themes/geekie/page-home.php on line 15
+[27-May-2023 18:32:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_content() in /home/leonardo/projects/wp_geekie/app/public/wp-content/themes/geekie/page-home.php:15
+Stack trace:
+#0 /home/leonardo/projects/wp_geekie/app/public/wp-includes/template-loader.php(106): include()
+#1 /home/leonardo/projects/wp_geekie/app/public/wp-blog-header.php(19): require_once('/home/leonardo/...')
+#2 /home/leonardo/projects/wp_geekie/app/public/index.php(17): require('/home/leonardo/...')
+#3 {main}
+  thrown in /home/leonardo/projects/wp_geekie/app/public/wp-content/themes/geekie/page-home.php on line 15
+[27-May-2023 18:37:19 UTC] PHP Warning:  Attempt to read property "title" on null in /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[27-May-2023 18:37:35 UTC] PHP Warning:  Attempt to read property "title" on null in /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[27-May-2023 18:37:47 UTC] PHP Warning:  Attempt to read property "title" on null in /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[27-May-2023 18:44:49 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function WP_Customize_Media_Control::__construct(), 1 passed in /home/leonardo/projects/wp_geekie/app/public/wp-content/themes/geekie/inc/customizer.php on line 59 and at least 2 expected in /home/leonardo/projects/wp_geekie/app/public/wp-includes/customize/class-wp-customize-media-control.php:56
+Stack trace:
+#0 /home/leonardo/projects/wp_geekie/app/public/wp-content/themes/geekie/inc/customizer.php(59): WP_Customize_Media_Control->__construct('set_hero_home_s...')
+#1 /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-hook.php(308): geekie_customizer(Object(WP_Customize_Manager))
+#2 /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 /home/leonardo/projects/wp_geekie/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-customize-manager.php(934): do_action('customize_regis...', Object(WP_Customize_Manager))
+#5 /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-hook.php(308): WP_Customize_Manager->wp_loaded('')
+#6 /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#7 /home/leonardo/projects/wp_geekie/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#8 /home/leonardo/projects/wp_geekie/app/public/wp-settings.php(645): do_action('wp_loaded')
+#9 /home/leonardo/projects/wp_geekie/app/public/wp-config.php(105): require_once('/home/leonardo/...')
+#10 /home/leonardo/projects/wp_geekie/app/public/wp-load.php(50): require_once('/home/leonardo/...')
+#11 /home/leonardo/projects/wp_geekie/app/public/wp-admin/admin-ajax.php(22): require_once('/home/leonardo/...')
+#12 {main}
+  thrown in /home/leonardo/projects/wp_geekie/app/public/wp-includes/customize/class-wp-customize-media-control.php on line 56
+[27-May-2023 18:45:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_setting() on string in /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-customize-control.php:235
+Stack trace:
+#0 /home/leonardo/projects/wp_geekie/app/public/wp-includes/customize/class-wp-customize-media-control.php(57): WP_Customize_Control->__construct('set_hero_home_s...', Array, Array)
+#1 /home/leonardo/projects/wp_geekie/app/public/wp-content/themes/geekie/inc/customizer.php(61): WP_Customize_Media_Control->__construct('set_hero_home_s...', Array)
+#2 /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-hook.php(308): geekie_customizer(Object(WP_Customize_Manager))
+#3 /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home/leonardo/projects/wp_geekie/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-customize-manager.php(934): do_action('customize_regis...', Object(WP_Customize_Manager))
+#6 /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-hook.php(308): WP_Customize_Manager->wp_loaded('')
+#7 /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#8 /home/leonardo/projects/wp_geekie/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#9 /home/leonardo/projects/wp_geekie/app/public/wp-settings.php(645): do_action('wp_loaded')
+#10 /home/leonardo/projects/wp_geekie/app/public/wp-config.php(105): require_once('/home/leonardo/...')
+#11 /home/leonardo/projects/wp_geekie/app/public/wp-load.php(50): require_once('/home/leonardo/...')
+#12 /home/leonardo/projects/wp_geekie/app/public/wp-admin/admin-ajax.php(22): require_once('/home/leonardo/...')
+#13 {main}
+  thrown in /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-customize-control.php on line 235
+[27-May-2023 18:45:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_setting() on string in /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-customize-control.php:235
+Stack trace:
+#0 /home/leonardo/projects/wp_geekie/app/public/wp-includes/customize/class-wp-customize-media-control.php(57): WP_Customize_Control->__construct('set_hero_home_s...', Array, Array)
+#1 /home/leonardo/projects/wp_geekie/app/public/wp-content/themes/geekie/inc/customizer.php(61): WP_Customize_Media_Control->__construct('set_hero_home_s...', Array)
+#2 /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-hook.php(308): geekie_customizer(Object(WP_Customize_Manager))
+#3 /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home/leonardo/projects/wp_geekie/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-customize-manager.php(934): do_action('customize_regis...', Object(WP_Customize_Manager))
+#6 /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-hook.php(308): WP_Customize_Manager->wp_loaded('')
+#7 /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#8 /home/leonardo/projects/wp_geekie/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#9 /home/leonardo/projects/wp_geekie/app/public/wp-settings.php(645): do_action('wp_loaded')
+#10 /home/leonardo/projects/wp_geekie/app/public/wp-config.php(105): require_once('/home/leonardo/...')
+#11 /home/leonardo/projects/wp_geekie/app/public/wp-load.php(50): require_once('/home/leonardo/...')
+#12 /home/leonardo/projects/wp_geekie/app/public/wp-admin/admin.php(34): require_once('/home/leonardo/...')
+#13 /home/leonardo/projects/wp_geekie/app/public/wp-admin/customize.php(13): require_once('/home/leonardo/...')
+#14 {main}
+  thrown in /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-customize-control.php on line 235
+[27-May-2023 18:46:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_setting() on string in /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-customize-control.php:235
+Stack trace:
+#0 /home/leonardo/projects/wp_geekie/app/public/wp-includes/customize/class-wp-customize-media-control.php(57): WP_Customize_Control->__construct('set_hero_home_s...', Array, Array)
+#1 /home/leonardo/projects/wp_geekie/app/public/wp-content/themes/geekie/inc/customizer.php(61): WP_Customize_Media_Control->__construct('set_hero_home_s...', Array)
+#2 /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-hook.php(308): geekie_customizer(Object(WP_Customize_Manager))
+#3 /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home/leonardo/projects/wp_geekie/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-customize-manager.php(934): do_action('customize_regis...', Object(WP_Customize_Manager))
+#6 /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-hook.php(308): WP_Customize_Manager->wp_loaded('')
+#7 /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#8 /home/leonardo/projects/wp_geekie/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#9 /home/leonardo/projects/wp_geekie/app/public/wp-settings.php(645): do_action('wp_loaded')
+#10 /home/leonardo/projects/wp_geekie/app/public/wp-config.php(105): require_once('/home/leonardo/...')
+#11 /home/leonardo/projects/wp_geekie/app/public/wp-load.php(50): require_once('/home/leonardo/...')
+#12 /home/leonardo/projects/wp_geekie/app/public/wp-admin/admin.php(34): require_once('/home/leonardo/...')
+#13 /home/leonardo/projects/wp_geekie/app/public/wp-admin/customize.php(13): require_once('/home/leonardo/...')
+#14 {main}
+  thrown in /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-customize-control.php on line 235
+[27-May-2023 18:46:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_setting() on string in /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-customize-control.php:235
+Stack trace:
+#0 /home/leonardo/projects/wp_geekie/app/public/wp-includes/customize/class-wp-customize-media-control.php(57): WP_Customize_Control->__construct('set_hero_home_s...', Array, Array)
+#1 /home/leonardo/projects/wp_geekie/app/public/wp-content/themes/geekie/inc/customizer.php(61): WP_Customize_Media_Control->__construct('set_hero_home_s...', Array)
+#2 /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-hook.php(308): geekie_customizer(Object(WP_Customize_Manager))
+#3 /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home/leonardo/projects/wp_geekie/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-customize-manager.php(934): do_action('customize_regis...', Object(WP_Customize_Manager))
+#6 /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-hook.php(308): WP_Customize_Manager->wp_loaded('')
+#7 /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#8 /home/leonardo/projects/wp_geekie/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#9 /home/leonardo/projects/wp_geekie/app/public/wp-settings.php(645): do_action('wp_loaded')
+#10 /home/leonardo/projects/wp_geekie/app/public/wp-config.php(105): require_once('/home/leonardo/...')
+#11 /home/leonardo/projects/wp_geekie/app/public/wp-load.php(50): require_once('/home/leonardo/...')
+#12 /home/leonardo/projects/wp_geekie/app/public/wp-admin/admin.php(34): require_once('/home/leonardo/...')
+#13 /home/leonardo/projects/wp_geekie/app/public/wp-admin/customize.php(13): require_once('/home/leonardo/...')
+#14 {main}
+  thrown in /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-customize-control.php on line 235
+[27-May-2023 18:46:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_setting() on string in /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-customize-control.php:235
+Stack trace:
+#0 /home/leonardo/projects/wp_geekie/app/public/wp-includes/customize/class-wp-customize-media-control.php(57): WP_Customize_Control->__construct('set_hero_home_s...', Array, Array)
+#1 /home/leonardo/projects/wp_geekie/app/public/wp-content/themes/geekie/inc/customizer.php(61): WP_Customize_Media_Control->__construct('set_hero_home_s...', Array)
+#2 /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-hook.php(308): geekie_customizer(Object(WP_Customize_Manager))
+#3 /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home/leonardo/projects/wp_geekie/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-customize-manager.php(934): do_action('customize_regis...', Object(WP_Customize_Manager))
+#6 /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-hook.php(308): WP_Customize_Manager->wp_loaded('')
+#7 /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#8 /home/leonardo/projects/wp_geekie/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#9 /home/leonardo/projects/wp_geekie/app/public/wp-settings.php(645): do_action('wp_loaded')
+#10 /home/leonardo/projects/wp_geekie/app/public/wp-config.php(105): require_once('/home/leonardo/...')
+#11 /home/leonardo/projects/wp_geekie/app/public/wp-load.php(50): require_once('/home/leonardo/...')
+#12 /home/leonardo/projects/wp_geekie/app/public/wp-admin/admin.php(34): require_once('/home/leonardo/...')
+#13 /home/leonardo/projects/wp_geekie/app/public/wp-admin/customize.php(13): require_once('/home/leonardo/...')
+#14 {main}
+  thrown in /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-customize-control.php on line 235
+[27-May-2023 18:47:24 UTC] PHP Warning:  Attempt to read property "title" on null in /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[27-May-2023 18:48:02 UTC] PHP Warning:  Attempt to read property "title" on null in /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[27-May-2023 18:48:59 UTC] PHP Warning:  Attempt to read property "title" on null in /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[27-May-2023 18:49:18 UTC] PHP Warning:  Attempt to read property "title" on null in /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[27-May-2023 18:50:16 UTC] PHP Warning:  Attempt to read property "title" on null in /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[27-May-2023 18:51:48 UTC] PHP Warning:  Attempt to read property "title" on null in /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[27-May-2023 18:52:05 UTC] PHP Warning:  Attempt to read property "title" on null in /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[27-May-2023 18:59:00 UTC] PHP Notice:  fwrite(): Send of 238 bytes failed with errno=32 Broken pipe in /home/leonardo/.vscode/extensions/zobo.php-intellisense-1.1.3/vendor/felixfbecker/language-server/src/StderrLogger.php on line 23
+[27-May-2023 19:40:16 UTC] PHP Warning:  Attempt to read property "title" on null in /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[27-May-2023 19:40:59 UTC] PHP Warning:  Attempt to read property "title" on null in /home/leonardo/projects/wp_geekie/app/public/wp-includes/class-wp-customize-widgets.php on line 905
